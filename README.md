@@ -1,0 +1,2 @@
+# PythonFundamentals
+Welcome to this free Python fundamentals prep course! The material here will guide you through the basics of Python. You'll learn how to store data in variables, write code that runs only if certain conditions are met, and write functions. By the end of the course, you'll be able to write simple command line games entirely in Python!  When you're ready, get started with Introduction to Python.
