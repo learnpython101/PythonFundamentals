@@ -1,0 +1,7 @@
+fruits = [
+            "apple", "banana", "cherry"
+         ]
+
+a)	Use the range function to loop through a code set 6 times
+b)	Exit the loop when x is "banana"
+c)	In the loop, when the item value is "banana", jump directly to the next item.

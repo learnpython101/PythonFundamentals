@@ -1,0 +1,8 @@
+fruits = (
+            "apple", "banana", "cherry"
+         )
+
+a)	Print the first item in the fruits tuple
+b)	Use the correct syntax to print the number of items in the fruits tuple
+c)	Use negative indexing to print the last item in the tuple
+d)	Use a range of indexes to print the third, fourth, and fifth item in the tuple
