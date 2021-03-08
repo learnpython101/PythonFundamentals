@@ -1,0 +1,40 @@
+a.	Create employee database
+b.	Create dept database
+c.	Map employee to a dept**
+d.	Provide option to retrieve the info by emp_id , emp_name
+
+Deptcode,Name
+101,HRD
+102,FINANCE
+103,ACCOUNTS
+104,SALES
+105,ENGINEERING
+106,SUPPORT
+
+Name,Date of joining(doj),emp id
+Alex,10-01-2021,1000
+Tumelo,11-03-2021,1001
+Angela,01-05-2021,1002
+Mpho,16-08-2021,1003
+Veronica,29-11-2021,1004
+
+
+e.	Display products with price less or equal form user input
+    I.	Use the get method to print the value of the "LAPTOP" key
+    II.	Add the key/value pair "TELEVISION" : "5000" to the dictionary and display it
+    III.	Use the pop method to remove "PHONE" from the dictionary
+    IV.	Use the clear method to empty the dictionary
+
+products = {
+                ‘SMART WATCH’: 550,
+                ‘PHONE’ : 1000,
+                ‘PLAYSTATION’: 500,
+                ‘LAPTOP’ : 1550,
+                ‘MUSIC PLAYER’ : 600,
+                ‘TABLET’ : 400
+            }
+
+
+f.	Count number of occurrence of words in the variable below
+    Sample_text = “”” This is a common message for people,
+    message is private and circulate this with caution”””
